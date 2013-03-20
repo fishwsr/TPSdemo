@@ -37,8 +37,8 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <IncludePath>F:\Files\Project\FaceAlignment\Code\tpsdemo-1.2\TPSdemo\TPSdemo\include;D:\boost\boost_1_50;$(IncludePath)</IncludePath>
-    <LibraryPath>F:\Files\Project\FaceAlignment\Code\tpsdemo-1.2\TPSdemo\TPSdemo\lib;D:\boost\boost_1_50\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>.\include;D:\boost\boost_1_50;$(IncludePath)</IncludePath>
+    <LibraryPath>.\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
