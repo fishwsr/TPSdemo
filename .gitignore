@@ -18,11 +18,10 @@ Thumbs.db
 *.ilk
 *.log
 [Bb]in
-[Dd]ebug*/
-*.lib
 *.sbr
 obj/
 [Rr]elease*/
+TPSDemo/[Dd]ebug*/
 _ReSharper*/
 [Tt]est[Rr]esult*
 *.vssscc
